@@ -1,0 +1,10 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+
+CONTRATANTE: TecnoPeças Industriais S.A.
+CONTRATADA: Exemplo Tecnologia Ltda
+
+CLÁUSULA 1 — OBJETO: automação do registro de reuniões comerciais no CRM, com transcrição e resumo automático por IA.
+CLÁUSULA 2 — VALOR: R$ 7.200,00 mensais, pagos até o dia 10 de cada mês.
+CLÁUSULA 3 — PRAZO: 12 meses, renovação automática salvo aviso com 60 dias de antecedência.
+CLÁUSULA 4 — A CONTRATADA garante disponibilidade de 99% e responde por vazamento de dados, com multa de R$ 50.000,00.
+Recife, 3 de agosto de 2026.
